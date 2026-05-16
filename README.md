@@ -1,6 +1,7 @@
 # Meowza Bot
 A simple Moderation and utility Discord bot that enhances your server with useful features.  
 This bot contains features like auto mdoeration and some other utility features that makes your server fun!  
+Bot website; https://wspbenz.github.io/Meowza
 
 # Support Us!
 You can join our Discord server to support us!  
