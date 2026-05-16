@@ -333,6 +333,9 @@ nav a:hover{
   .homepage h1{
     font-size: 45px;
   }
+  .homepage img{
+    width: 300px;
+  }
 
   .homepage p{
     font-size: 16px;
